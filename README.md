@@ -1,6 +1,5 @@
 ## Description
-A thin python wrapper for pivpn
-
+A thin python wrapper for pivpn. Requires a working install of [pivpn](https://github.com/pivpn/pivpn).
 ## Installation
 
 ### From pypi
