@@ -1,10 +1,25 @@
-# Description
+## Description
 A thin python wrapper for pivpn
 
-# Installation
-pip3 install pivpnpy
+## Installation
 
-# Usage
+###From pypi
+```shell
+pip3 install pivpnpy
+```
+
+###From this git repo:
+```shell
+# Ensure you have setuptools >= 21.3
+python3 -m pip install --upgrade pip
+
+git clone https://github.com/m00ninite/pivpnpy.git
+cd pivpnpy
+python3 -m pip install -e .
+```
+
+
+## Usage
 ```python3
 from pivpnpy import pivpn
 
