@@ -3,12 +3,12 @@ A thin python wrapper for pivpn
 
 ## Installation
 
-###From pypi
+### From pypi
 ```shell
 pip3 install pivpnpy
 ```
 
-###From this git repo:
+### From this git repo:
 ```shell
 # Ensure you have setuptools >= 21.3
 python3 -m pip install --upgrade pip
